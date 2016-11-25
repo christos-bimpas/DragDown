@@ -3,7 +3,6 @@
 //  DragDown
 //
 //  Created by Christos Bimpas on 7/11/16.
-//  Copyright © 2016 Snepo. All rights reserved.
 //
 
 import UIKit
